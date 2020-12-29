@@ -15,7 +15,8 @@ public class HomeWork {
 
         boolean exEight = true;
 
-       System.out.println(calculate(3.5f,3.8f,9.3f,1.8f));
+        System.out.println("Урок 1");
+        System.out.println(calculate(5.5f,8.8f,9.3f,1.8f));
        System.out.println(task10and20(5,6));
        isPositiveOrNegative(-30);
         System.out.println(isPositiveOrNegative1(10));
